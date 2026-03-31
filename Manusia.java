@@ -60,4 +60,5 @@ public class Manusia {
         return "Nama: " + Nama + "\nNIK: " + Nik + "\nJenis Kelamin: " + gender +  "\nPendapatan: " + getPendapatan();
 
     }
+
 }
